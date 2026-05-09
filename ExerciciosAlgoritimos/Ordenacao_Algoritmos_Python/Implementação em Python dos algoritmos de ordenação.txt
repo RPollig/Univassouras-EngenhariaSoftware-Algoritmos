@@ -1,0 +1,22 @@
+Implementação em Python dos algoritmos de ordenação:
+
+Selection Sort (ordenação por seleção)
+Bubble Sort
+Insertion Sort (ordenação por inserção)
+Merge Sort (ordenação por intercalação)
+Quick Sort (ordenação rápida)
+Heap Sort
+Counting Sort
+Radix Sort
+Bucket Sort
+Criação de uma lista de 100.000 elementos randomicos para teste
+
+Grupos com até 5 integrantes
+
+Deve ser demonstrado as vantagens e desvantagens do algoritmos
+
+Nota será individual de acordo com a apresentação 
+
+Cada trabalho deve ser entregue individualmente via link do repositório no Github (Cada aluno deve criar o seu!)
+
+Material de referência: https://www.freecodecamp.org/portuguese/news/algoritmos-de-ordenacao-explicados-com-exemplos-em-python-java-e-c/
